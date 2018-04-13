@@ -78,9 +78,7 @@ public class SunshinePreferences {
     }
 
     /**
-     * Returns the location currently set in Preferences. The default location this method
-     * will return is "94043,USA", which is Mountain View, California. Mountain View is the
-     * home of the headquarters of the Googleplex!
+     * Varsayılan Konum Bilgisi
      *
      * @param context Context used to get the SharedPreferences
      * @return Location The current user has set in SharedPreferences. Will default to
