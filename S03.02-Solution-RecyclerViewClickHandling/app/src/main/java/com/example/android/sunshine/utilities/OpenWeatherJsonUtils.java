@@ -25,7 +25,7 @@ import org.json.JSONObject;
 import java.net.HttpURLConnection;
 
 /**
- * Utility functions to handle OpenWeatherMap JSON data.
+ * JSON Verileri işlemek için.
  */
 public final class OpenWeatherJsonUtils {
 
