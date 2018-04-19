@@ -14,7 +14,7 @@ public class DetailActivity extends AppCompatActivity {
 
     private String mForecast;
     private TextView mWeatherDisplay;
-
+        
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
